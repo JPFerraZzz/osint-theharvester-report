@@ -26,6 +26,6 @@ Demonstrar o que é possível descobrir sobre organizações e infraestruturas u
 
 ## Autor
 
-João Pedro Ferraz — [LinkedIn](https://www.linkedin.com/in/jpferrazpereira) | [FerrazWeb](https://ferrazweb.pt)
+João Pedro Ferraz — [LinkedIn](https://www.linkedin.com/in/jpferrazpereira)
 
 > Investigação conduzida exclusivamente com fontes públicas e abertas. Fins educativos.
