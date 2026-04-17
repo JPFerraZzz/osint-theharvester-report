@@ -1,6 +1,6 @@
 # Investigação OSINT — Reconhecimento Passivo com theHarvester
 
-Relatório técnico de reconhecimento passivo utilizando OSINT, desenvolvido por interesse pessoal no âmbito do curso de Redes e Sistemas Informáticos (ISPGAYA).
+Relatório técnico de reconhecimento passivo utilizando OSINT, desenvolvido por interesse pessoal na área de cibersegurança.
 
 ## Objetivo
 
